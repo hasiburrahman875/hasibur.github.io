@@ -363,7 +363,7 @@ p {
     background: #1FC600;
     position: relative;
 	
-    background: #CE1139;
+    background: #006633;
 	height:650px;
 }
 
@@ -471,7 +471,7 @@ a.read_more:hover {
 
 #service {
     padding: 60px 0px;
-    background: #CE1139;
+    background: #006633;
 }
 #service h2{
   color: #fff;
@@ -783,7 +783,7 @@ img {
 
 
 .client_logos {
-    background: #CE1139;
+    background: #006633;
     padding: 60px 0;
     margin-top: 60px;
 }
@@ -871,7 +871,7 @@ background-position-y: 70px;
 	position: absolute;
 	font-family: FontAwesome;
 	font-size: 1.125em;
-	color: #CE1139;
+	color: #006633;
 	left: 0px;
 	top: 3px;
 }
@@ -1015,12 +1015,12 @@ border-radius: 100%;
 font-size: 15px;
 line-height: 30px;
 outline: 0;
-color: #CE1139;
+color: #006633;
 background-color: #fff;
 -webkit-transition: all .3s;
 -moz-transition: all .3s;
 transition: all .3s;
-border: 1px solid #CE1139;
+border: 1px solid #006633;
 }
 #aboutUs {
     padding: 60px 0;
@@ -1215,7 +1215,7 @@ border: 1px solid #CE1139;
     width: 175px;
     height: 50px;
     letter-spacing: 0px;
-    background: #CE1139;
+    background: #006633;
     border-radius: 3px;
     color: #ffffff;
     font-size: 16px;
@@ -1253,7 +1253,7 @@ border: 1px solid #CE1139;
 
 .footer_bottom span a {
     display: inline-block;
-    color: #CE1139;
+    color: #006633;
     font-size: 16px;
     transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -1372,10 +1372,10 @@ border: 1px solid #CE1139;
 }
 
 #filters ul li a:hover h5, #filters ul li a.active h5 {
-    background: #CE1139;
+    background: #006633;
     color: #FFFFFF;
     text-decoration: none;
-    border: #CE1139 solid 1px;
+    border: #006633 solid 1px;
 }
 
 .section-title h2 {
