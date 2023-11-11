@@ -390,7 +390,7 @@ p {
 
 .top_left_cont h3 {
     font-size: 16px;
-    color: #f56eab;
+    color: #1FC600;
     margin: 0 0 20px 0;
     text-align: left;
     font-weight: 700;
@@ -1064,7 +1064,7 @@ border: 1px solid #CE1139;
 }
 
 .contact_block_icon span {
-    background: none repeat scroll 0 0 #f56eab;
+    background: none repeat scroll 0 0 #1FC600;
     border: 5px solid #fff;
     border-radius: 50%;
     display: block;
